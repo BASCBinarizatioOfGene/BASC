@@ -19,7 +19,7 @@ instante de tiempo un gen está expresado (activo) o no.
 ===========================================================================================================
 
 AUTORES:
-	Directora de Proyecto:
+	Director de Proyecto:
 		Ing. Wilmer Edicson Garzón Alfonso.
 	Integrantes:
 		Tatiana Andrea Higuera Munevar.
