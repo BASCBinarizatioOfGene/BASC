@@ -1,3 +1,16 @@
+"""
+============================================================
+Authors: Helber Giovanny Sissa Becerra
+         Tatiana Andrea Higuera Munevar
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The BASC algorithms are binarization techniques that aim
+at determining a robust binarization by analyzing the data
+at multiple scales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Method: BASCHAAR1
+============================================================
+"""
+
 import math
 from sys import stdin
 
